@@ -1,0 +1,17 @@
+D:\mappenstructuur\school\C#\lichtschakelaar\bin\Debug\net6.0-windows\lichtschakelaar.exe
+D:\mappenstructuur\school\C#\lichtschakelaar\bin\Debug\net6.0-windows\lichtschakelaar.deps.json
+D:\mappenstructuur\school\C#\lichtschakelaar\bin\Debug\net6.0-windows\lichtschakelaar.runtimeconfig.json
+D:\mappenstructuur\school\C#\lichtschakelaar\bin\Debug\net6.0-windows\lichtschakelaar.dll
+D:\mappenstructuur\school\C#\lichtschakelaar\bin\Debug\net6.0-windows\lichtschakelaar.pdb
+D:\mappenstructuur\school\C#\lichtschakelaar\obj\Debug\net6.0-windows\lichtschakelaar.csproj.AssemblyReference.cache
+D:\mappenstructuur\school\C#\lichtschakelaar\obj\Debug\net6.0-windows\lichtschakelaar.Form1.resources
+D:\mappenstructuur\school\C#\lichtschakelaar\obj\Debug\net6.0-windows\lichtschakelaar.csproj.GenerateResource.cache
+D:\mappenstructuur\school\C#\lichtschakelaar\obj\Debug\net6.0-windows\lichtschakelaar.GeneratedMSBuildEditorConfig.editorconfig
+D:\mappenstructuur\school\C#\lichtschakelaar\obj\Debug\net6.0-windows\lichtschakelaar.AssemblyInfoInputs.cache
+D:\mappenstructuur\school\C#\lichtschakelaar\obj\Debug\net6.0-windows\lichtschakelaar.AssemblyInfo.cs
+D:\mappenstructuur\school\C#\lichtschakelaar\obj\Debug\net6.0-windows\lichtschakelaar.csproj.CoreCompileInputs.cache
+D:\mappenstructuur\school\C#\lichtschakelaar\obj\Debug\net6.0-windows\lichtschakelaar.dll
+D:\mappenstructuur\school\C#\lichtschakelaar\obj\Debug\net6.0-windows\refint\lichtschakelaar.dll
+D:\mappenstructuur\school\C#\lichtschakelaar\obj\Debug\net6.0-windows\lichtschakelaar.pdb
+D:\mappenstructuur\school\C#\lichtschakelaar\obj\Debug\net6.0-windows\lichtschakelaar.genruntimeconfig.cache
+D:\mappenstructuur\school\C#\lichtschakelaar\obj\Debug\net6.0-windows\ref\lichtschakelaar.dll
